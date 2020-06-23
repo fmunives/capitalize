@@ -1,0 +1,16 @@
+{
+  "name": "fmunives-capitalize",
+  "version": "1.0.0",
+  "description": "capitalize a string",
+  "main": "index.js",
+  "author": "Freddy Munive <munivef@yahoo.com>",
+  "license": "MIT",
+  "keywords": [
+    "codeable"
+  ],
+  "homepage": "https://github.com/fmunives/capitalize",
+  "repository": {
+    "url": "https://github.com/fmunives/capitalize",
+    "type": "git"
+  }
+}
